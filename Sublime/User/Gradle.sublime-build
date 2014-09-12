@@ -1,0 +1,4 @@
+{
+	"cmd": ["gradle", "hello"],
+	"working_dir": "${project_path:${folder}}"
+}

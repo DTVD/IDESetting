@@ -1,0 +1,72 @@
+2013-09-30 13:58:19
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 23, in run_with_except_hook
+  File "./sublimesvn/listeners.py", line 31, in run
+  File "./sublimesvn/proc.py", line 80, in get_wc_root
+  File "./sublimesvn/proc.py", line 131, in find_wc_root
+  File "./sublimesvn/proc.py", line 923, in run
+  File "./sublimesvn/proc.py", line 365, in __init__
+  File "./sublimesvn/proc.py", line 419, in open
+  File ".\subprocess.py", line 633, in __init__
+  File ".\subprocess.py", line 842, in _execute_child
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 3-4: ordinal not in range(128)
+2013-09-30 13:58:24
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 23, in run_with_except_hook
+  File "./sublimesvn/listeners.py", line 31, in run
+  File "./sublimesvn/proc.py", line 80, in get_wc_root
+  File "./sublimesvn/proc.py", line 131, in find_wc_root
+  File "./sublimesvn/proc.py", line 923, in run
+  File "./sublimesvn/proc.py", line 365, in __init__
+  File "./sublimesvn/proc.py", line 419, in open
+  File ".\subprocess.py", line 633, in __init__
+  File ".\subprocess.py", line 842, in _execute_child
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 3-4: ordinal not in range(128)
+2013-09-30 13:58:28
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 23, in run_with_except_hook
+  File "./sublimesvn/listeners.py", line 31, in run
+  File "./sublimesvn/proc.py", line 80, in get_wc_root
+  File "./sublimesvn/proc.py", line 131, in find_wc_root
+  File "./sublimesvn/proc.py", line 923, in run
+  File "./sublimesvn/proc.py", line 365, in __init__
+  File "./sublimesvn/proc.py", line 419, in open
+  File ".\subprocess.py", line 633, in __init__
+  File ".\subprocess.py", line 842, in _execute_child
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 3-4: ordinal not in range(128)
+2013-09-30 13:58:30
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 23, in run_with_except_hook
+  File "./sublimesvn/listeners.py", line 31, in run
+  File "./sublimesvn/proc.py", line 80, in get_wc_root
+  File "./sublimesvn/proc.py", line 131, in find_wc_root
+  File "./sublimesvn/proc.py", line 923, in run
+  File "./sublimesvn/proc.py", line 365, in __init__
+  File "./sublimesvn/proc.py", line 419, in open
+  File ".\subprocess.py", line 633, in __init__
+  File ".\subprocess.py", line 842, in _execute_child
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 3-4: ordinal not in range(128)
+2013-09-30 13:58:37
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 23, in run_with_except_hook
+  File "./sublimesvn/listeners.py", line 31, in run
+  File "./sublimesvn/proc.py", line 80, in get_wc_root
+  File "./sublimesvn/proc.py", line 131, in find_wc_root
+  File "./sublimesvn/proc.py", line 923, in run
+  File "./sublimesvn/proc.py", line 365, in __init__
+  File "./sublimesvn/proc.py", line 419, in open
+  File ".\subprocess.py", line 633, in __init__
+  File ".\subprocess.py", line 842, in _execute_child
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 3-4: ordinal not in range(128)
+2013-09-30 13:58:39
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 23, in run_with_except_hook
+  File "./sublimesvn/listeners.py", line 31, in run
+  File "./sublimesvn/proc.py", line 80, in get_wc_root
+  File "./sublimesvn/proc.py", line 131, in find_wc_root
+  File "./sublimesvn/proc.py", line 923, in run
+  File "./sublimesvn/proc.py", line 365, in __init__
+  File "./sublimesvn/proc.py", line 419, in open
+  File ".\subprocess.py", line 633, in __init__
+  File ".\subprocess.py", line 842, in _execute_child
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 3-4: ordinal not in range(128)

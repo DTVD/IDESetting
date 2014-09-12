@@ -1,0 +1,25 @@
+[user]
+	name = Orakaro
+	email = nhatminh_179@hotmail.com
+[color]
+	ui = true
+[core]
+  editor = vim
+	excludesfile = /Users/DTVD/.gitignore_global
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[push]
+	default = matching
+[alias]
+    undo = reset --hard
+    st = status
+    ci = commit
+    br = branch
+    co = checkout
+    mg = merge
+    pl = pull
+

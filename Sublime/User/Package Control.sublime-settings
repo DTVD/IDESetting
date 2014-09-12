@@ -1,0 +1,46 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Case Conversion",
+		"CSV",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"Goto Documentation",
+		"IMESupport",
+		"Laravel Color Scheme",
+		"LiveStyle",
+		"MoveTab",
+		"Mreq Color Scheme",
+		"Package Control",
+		"PHPUnit Completions",
+		"PlainTasks",
+		"Prefixr",
+		"Quick File Creator",
+		"Search Stack Overflow",
+		"SideBarEnhancements",
+		"SimpleClone",
+		"Smarty",
+		"sublime-github",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Super Ant",
+		"SVN",
+		"Theme - Spacegray",
+		"Tomorrow Color Schemes",
+		"TortoiseSVN",
+		"TrailingSpaces",
+		"Twitter Bootstrap ClassNames Completions",
+		"View In Browser",
+		"WordHighlight"
+	],
+	"repositories":
+	[
+		"https://github.com/koizuss/sublime-gradle"
+	]
+}
