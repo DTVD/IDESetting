@@ -1,0 +1,25 @@
+set debug
+set laststatus=0
+
+" Highlight trailing whitespace
+:highlight ExtraWhitespace ctermbg=red guibg=red
+:match ExtraWhitespace /\s\+$/
+
+" Clear all types of comments
+map = :s/^\/\/\\|^--\\|^> \\|^[#"%!;]//<CR>:nohlsearch<CR>
+
+" Add a # comment at the begining
+map - :s/^/\/\//<CR>:nohlsearch<CR>
+
+nmap <C-h> <C-w>h
+nmap <C-l> <C-w>l
+
+":set nu
+":set hlsearch
+
+"soft tab 2 indent
+" set smartindent
+" set tabstop=2
+" set shiftwidth=2
+" set expandtab
+
